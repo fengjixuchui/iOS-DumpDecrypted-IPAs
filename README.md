@@ -12,7 +12,7 @@
 
 |||QQ|||
 | --- | --- | --- | --- | --- |
-|[8.9.15*](https://share.initnil.com/d/DumpDecrypted/QQ/QQ_8.9.15_dump.ipa?sign=r0htbxBdThl5dJANs-yaRGgkJYnSg2CDhFYSaV9cd68=:0)|[8.9.13*](https://share.initnil.com/d/DumpDecrypted/QQ/QQ_8.9.13_dump.ipa?sign=2NMXPCiLgDEQaWsGRdR4xCljeE2D1cUcuHnNfXZI_mo=:0)|[8.9.10*](https://share.initnil.com/d/DumpDecrypted/QQ/QQ_8.9.10_dump.ipa?sign=XacQ0nBJyswpFs7SIToYs7euxa551ULXQRijkrcKWB8=:0)|[8.9.8*](https://share.initnil.com/d/DumpDecrypted/QQ/QQ_8.9.8_dump.ipa?sign=Zu9JZ4zTExolSN-pvS2krBN9F13e5hUcPRhjr4L86d4=:0)|[8.9.5*](https://share.initnil.com/d/DumpDecrypted/QQ/QQ_8.9.5_dump.ipa?sign=72lV268Hdcjk6fIM2QkbH52CsfOMhDT1e_6IabprR2A=:0)|
+|[8.9.18*](https://share.initnil.com/d/DumpDecrypted/QQ/QQ_8.9.18_dump.ipa?sign=vycyQpD4aDNgRkXa7nlmVvwmLz9ux52Ya9C8QdJzOUA=:0)|[8.9.15*](https://share.initnil.com/d/DumpDecrypted/QQ/QQ_8.9.15_dump.ipa?sign=r0htbxBdThl5dJANs-yaRGgkJYnSg2CDhFYSaV9cd68=:0)|[8.9.13*](https://share.initnil.com/d/DumpDecrypted/QQ/QQ_8.9.13_dump.ipa?sign=2NMXPCiLgDEQaWsGRdR4xCljeE2D1cUcuHnNfXZI_mo=:0)|[8.9.10*](https://share.initnil.com/d/DumpDecrypted/QQ/QQ_8.9.10_dump.ipa?sign=XacQ0nBJyswpFs7SIToYs7euxa551ULXQRijkrcKWB8=:0)|[8.9.8*](https://share.initnil.com/d/DumpDecrypted/QQ/QQ_8.9.8_dump.ipa?sign=Zu9JZ4zTExolSN-pvS2krBN9F13e5hUcPRhjr4L86d4=:0)|
 
 |||WeChat|||
 | --- | --- | --- | --- | --- |
