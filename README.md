@@ -16,6 +16,6 @@
 
 |||WeChat|||
 | --- | --- | --- | --- | --- |
-|[8.0.32(19)TF*](https://share.initnil.com/d/DumpDecrypted/WeChat/WeChat_8.0.32(19)TF_dump.ipa?sign=zAE-XrIeXB8XqRT6CkuVH4KrH4QtZ9aZvCi__Y7RKLM=:0)|[8.0.31*](https://share.initnil.com/d/DumpDecrypted/WeChat/WeChat_8.0.31_dump.ipa?sign=OHDFIEBBqgTa2ybQEDhm9YXiSy8F6W4mA_tVxcYTksg=:0)|[8.0.30*](https://share.initnil.com/d/DumpDecrypted/WeChat/WeChat_8.0.30_dump.ipa?sign=CEvmq1NJXKdtXNd7vcLOqZpHVlFZzgkvZ4LUyFOvccw=:0)|[8.0.29*](https://share.initnil.com/d/DumpDecrypted/WeChat/WeChat_8.0.29_dump.ipa?sign=AsKSqAvtjeSZeTEAg0i2udg4YyoQYS9Y-_GQkVKSXps=:0)|[8.0.28*](https://share.initnil.com/d/DumpDecrypted/WeChat/WeChat_8.0.28_dump.ipa?sign=Ph7ghJcuaabDF2WX0L9bbho02kmsX1dgD76DO-jfFNc=:0)|
+|[8.0.32(20)TF*](https://share.initnil.com/d/DumpDecrypted/WeChat/WeChat_8.0.32(20)TF_dump.ipa?sign=0glPzIGgeW2w2s3Npvqp-HfuVCHi7gGLPT7ouhWqvHE=:0)|[8.0.31*](https://share.initnil.com/d/DumpDecrypted/WeChat/WeChat_8.0.31_dump.ipa?sign=OHDFIEBBqgTa2ybQEDhm9YXiSy8F6W4mA_tVxcYTksg=:0)|[8.0.30*](https://share.initnil.com/d/DumpDecrypted/WeChat/WeChat_8.0.30_dump.ipa?sign=CEvmq1NJXKdtXNd7vcLOqZpHVlFZzgkvZ4LUyFOvccw=:0)|[8.0.29*](https://share.initnil.com/d/DumpDecrypted/WeChat/WeChat_8.0.29_dump.ipa?sign=AsKSqAvtjeSZeTEAg0i2udg4YyoQYS9Y-_GQkVKSXps=:0)|[8.0.28*](https://share.initnil.com/d/DumpDecrypted/WeChat/WeChat_8.0.28_dump.ipa?sign=Ph7ghJcuaabDF2WX0L9bbho02kmsX1dgD76DO-jfFNc=:0)|
 
 ---
